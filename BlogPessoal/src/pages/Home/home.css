@@ -1,26 +1,3 @@
- 
-  body {
-    margin: 0;
-    display: flex;
-    place-items: center;
-    min-width: 320px;
-    min-height: 100vh;
-    margin : 0;
+body{
     background:linear-gradient(72deg, #8ed1cd 1%, #a28ed1 99%);
-      
-  }
-  
-h2{
-    font-size: 40px;
-    font-weight: bold;
-    color: #005bb0;
-    padding: 10px;
-    border: 2px solid #005bb0;
-    margin-top: 10px;
-}
-
-p{
-    font-size: 30px;
-    font-weight: bold;
-    color: #003c75;
 }
